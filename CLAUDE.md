@@ -55,10 +55,11 @@ When requesting permission to run any command, always ask:
 
 ## New Project Scaffolding (every project, every time)
 1. Create `CLAUDE.md` first — the AI harness
-2. Scaffold the project structure
-3. Create `docs/roadmap.md` — high-level plan
-4. Create `docs/phases.md` — detailed current 3-4 phases
-5. Create `ideas/` folder — low-friction idea capture, never disruptive
+2. `git init` then immediately `git checkout -b main` — default branch is always `main`, never `master`
+3. Scaffold the project structure
+4. Create `docs/roadmap.md` — high-level plan
+5. Create `docs/phases.md` — detailed current 3-4 phases
+6. Create `ideas/` folder — low-friction idea capture, never disruptive
 
 ## Skills & Plugins — Auto-Invoke Rules
 
