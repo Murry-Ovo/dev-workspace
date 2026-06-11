@@ -4,7 +4,17 @@
       "Skill(update-config)",
       "Bash(git init *)",
       "Bash(git branch *)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(gh repo *)",
+      "Bash(command *)",
+      "Bash(winget install *)",
+      "Bash(chmod +x *)",
+      "Bash(jq --version)",
+      "Bash(echo '')",
+      "Bash(echo 'export PATH=\"$PATH:/c/Users/andre/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe\"')",
+      "Bash(bash ~/.claude/scripts/statusline.sh)",
+      "Bash(bash --norc --noprofile ~/.claude/scripts/statusline.sh)",
+      "Bash(git -C /c/Users/andre/.claude status)"
     ]
   }
 }
