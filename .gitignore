@@ -1,0 +1,7 @@
+# Ignore all subdirectories (each is its own project repo)
+/*/
+
+# Keep workspace-level files and config
+!/.claude/
+!CLAUDE.md
+!.gitignore
